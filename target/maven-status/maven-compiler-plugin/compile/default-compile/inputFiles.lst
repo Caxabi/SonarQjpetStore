@@ -1,0 +1,14 @@
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesDefinition.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidSuperClassRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaFileCheckRegistrar.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\MyCustomSubscriptionRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\RulesList.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidBrandInMethodNamesRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SpringControllerRequestMappingEntityRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\MyJavaRulesPlugin.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\MyFirstCustomCheck.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\SecurityAnnotationMandatoryRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidAnnotationRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidTreeListRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\AvoidMethodDeclarationRule.java
+C:\Users\formation\Desktop\SonarQube\sonar-custom-rules-examples\java-custom-rules\src\main\java\org\sonar\samples\java\checks\PrinterVisitor.java
